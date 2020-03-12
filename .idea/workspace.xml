@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b5ba9a5-c1af-49ee-b7d8-7faa51ec98e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OXyi77Eeu7FeDHBduJTkyx2cK7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/appsupport/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ExcelDriven" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in pageobjectseleniumtest">
+    <configuration name="All in pageobjectseleniumtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassTest.signUpEmplyLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="METHOD_NAME" value="signUpEmplyLoginTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpPageTest.CheckEmailField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpPageTest" />
+      <option name="METHOD_NAME" value="CheckEmailField" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpPageTest.CheckUserNameField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectseleniumtest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpPageTest" />
+      <option name="METHOD_NAME" value="CheckUserNameField" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MainClassTest.signUpEmplyLoginTest" />
+      <item itemvalue="JUnit.SignUpPageTest" />
+      <item itemvalue="JUnit.SignUpPageTest.CheckEmailField" />
+      <item itemvalue="JUnit.SignUpPageTest.CheckUserNameField" />
+      <item itemvalue="JUnit.All in pageobjectseleniumtest" />
+      <item itemvalue="Maven.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in pageobjectseleniumtest" />
+        <item itemvalue="JUnit.SignUpPageTest.CheckUserNameField" />
+        <item itemvalue="JUnit.SignUpPageTest.CheckEmailField" />
+        <item itemvalue="JUnit.SignUpPageTest" />
+        <item itemvalue="JUnit.MainClassTest.signUpEmplyLoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b5ba9a5-c1af-49ee-b7d8-7faa51ec98e8" name="Default Changelist" comment="" />
+      <created>1562738817798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562738817798</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1582484727936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1582484727936" />
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1582484682729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582484682729" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="pageobjectseleniumtest" type="b2602c69:ProjectViewProjectNode" />
+        <item name="pageobjectseleniumtest" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
